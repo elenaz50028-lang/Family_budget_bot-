@@ -1,3 +1,3 @@
 export BOT_TOKEN="8996097304:AAGQ-lwjYYTV7-YAZjEUPFPLWzrXvaO7CHA"
-export OPENAI_API_KEY="e885289354204c33865e23b10ce7d650.eeoJ59pgRJc-DstkTTf0DfdD"
+export OPENAI_API_KEY="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"
 python bot.py
