@@ -4,8 +4,8 @@ import telebot
 from datetime import datetime
 from openai import OpenAI
 
-BOT_TOKEN = os.getenv("BOT_TOKEN")
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+BOT_TOKEN = os.getenv("8996097304:AAGQ-lwjYYTV7-YAZjEUPFPLWzrXvaO7CHA")
+OPENAI_API_KEY = os.getenv("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")
 
 if not BOT_TOKEN:
     raise ValueError("❌ Переменная BOT_TOKEN не задана в Render")
